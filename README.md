@@ -1,6 +1,6 @@
-# 👨‍💻Rafael👨‍💻
+# 👨‍💻Rafael Silva👨‍💻
 
-`Desenvolvedor Junior`
+`Desenvolvedor Junior` <br>
 Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software e tecnologia. Possuo conhecimentos em lógica de programação, Python, Java, JavaScript, HTML, CSS e SQL, além de familiaridade com Git e GitHub. Estou constantemente aprimorando minhas habilidades por meio de estudos e projetos práticos, buscando desenvolver soluções eficientes e evoluir profissionalmente na área de tecnologia.
 
 ### Principais Tecnologias:
@@ -45,14 +45,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvime
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-  align="left" 
-  alt="Git"
-  title="Git" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <br>
 
